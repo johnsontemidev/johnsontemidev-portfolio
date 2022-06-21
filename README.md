@@ -1,8 +1,8 @@
 
 
-About my portfolio
+#About my portfolio
 
-[![myportfolio](src/assets/imgages/mplogo.png)](https://github.com/johnsontemidev-portfolio)
+[![johnsontemidev-portfolio](public/assets/images/NewPortfolio.png)](https://github.com/johnsontemidev-portfolio)
 
 # johnsontemidev-portfolio
 - A simple and clean responsive portfolio template!
