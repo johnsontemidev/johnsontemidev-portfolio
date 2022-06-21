@@ -9,13 +9,13 @@ export default function Works() {
       <Row>
         <Col md={6}>
           <Card className={styles.card}>
-            <a href="https://johnsontemidev.blogspot.com" target="_blank" rel="noreferrer">
+            <a href="https://johnsontemidev.blogspot.com/2022/06/builddeployexportuserdesignlibrary.html" target="_blank" rel="noreferrer">
               <Card.Img
                 variant="top"
                 src="/assets/images/works/codedesign.png"
               />
               <Card.Body>
-                <Card.Title className={styles.title}>johnsontemidev.blogspot.com</Card.Title>
+                <Card.Title className={styles.title}>Build-Deploy-Export</Card.Title>
                 <p className={styles.category}>Blog</p>
                 <Card.Text>
                   Currently developing an interest in a technology blog mainly dealing with the latest trends in
@@ -32,7 +32,7 @@ export default function Works() {
         <Col md={6}>
           <Card className={styles.card}>
             <a
-              href="https://https://johnsontemidev.blogspot.com/2022/06/hello-people-how-is-it-going-have-you.html"
+              href="https://johnsontemidev.blogspot.com/2022/06/blog-post_75.html"
               target="_blank"
               rel="noreferrer"
             >
@@ -56,7 +56,7 @@ export default function Works() {
         </Col>
         <Col md={6}>
           <Card className={styles.card}>
-            <a href="https://" target="_blank" rel="noreferrer">
+            <a href="https://johnsontemidev.blogspot.com/2022/06/projectgamersdarkstyle-kuttyapp-url.html" target="_blank" rel="noreferrer">
               <Card.Img variant="top" src="/assets/images/works/kuty.png" />
               <Card.Body>
                 <Card.Title className={styles.title}>Kutty</Card.Title>
