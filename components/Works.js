@@ -23,7 +23,7 @@ export default function Works() {
                 </Card.Text>
                 <Card.Text>
                   Topics include React.js, Next.js, Express.js, MongoDB, and
-                  more.
+                  more...
                 </Card.Text>
               </Card.Body>
             </a>
@@ -32,7 +32,7 @@ export default function Works() {
         <Col md={6}>
           <Card className={styles.card}>
             <a
-              href="https://"
+              href="https://johnsontemidev.blogspot.com"
               target="_blank"
               rel="noreferrer"
             >
@@ -41,10 +41,10 @@ export default function Works() {
                 src="/assets/images/works/param.png"
               />
               <Card.Body>
-                <Card.Title className={styles.title}>Huke App</Card.Title>
+                <Card.Title className={styles.title}>Hukel App</Card.Title>
                 <p className={styles.category}>Android App</p>
                 <Card.Text>
-                  It is intend to provide instant access to services and
+                  An innovation intended to provide instant access to services and
                   notifications for people living in remote areas
                 </Card.Text>
                 <Card.Text>
@@ -59,7 +59,7 @@ export default function Works() {
             <a href="https://" target="_blank" rel="noreferrer">
               <Card.Img variant="top" src="/assets/images/works/kuty.png" />
               <Card.Body>
-                <Card.Title className={styles.title}>Kuty</Card.Title>
+                <Card.Title className={styles.title}>Kutty</Card.Title>
                 <p className={styles.category}>URL Shortener</p>
                 <Card.Text>
                   Kuty.me has really helped 

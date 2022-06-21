@@ -40,11 +40,11 @@ export default function Footer() {
         </div>
         <div className="copyright">
           <p className="top">
-            Made with the momeent of Inspiratation | Powered by&johnsontemidev;
+            Made with the Moment of Inspiratation | Powered by&jtemidev;
             <a href="https://">johnsontemiv.blogspot.com</a>
           </p>
           <p className="bottom">
-            Copyright © <a href="https://">Johnsontemidev.com</a> 2022
+            Copyright © <a href="https://">johnsontemidev.blogspot.com</a> 2022
           </p>
         </div>
       </div>
