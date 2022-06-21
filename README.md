@@ -25,7 +25,7 @@
 
 # About my portfolio
 
-[![johnsontemidev-portfolio](public/assets/images/NewPorfolio.PNG)](https://github.com/johnsontemidev/johnsontemidev-portfolio)
+[![johnsontemidev-portfolio](public/assets/images/NewPorfolio.gif)](https://github.com/johnsontemidev/johnsontemidev-portfolio)
 
 
 # johnsontemidev-portfolio
