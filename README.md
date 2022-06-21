@@ -1,19 +1,19 @@
 
 
-#About my portfolio
+# About my portfolio
 
 [![johnsontemidev-portfolio](public/assets/images/NewPortfolio.png)](https://github.com/johnsontemidev-portfolio)
 
 # johnsontemidev-portfolio
 - A simple and clean responsive portfolio template!
-- The website is completely built on `react-js` framework of `javascript`🔥.
+- The website is completely built on `Next-js` framework of `javascript`🔥.
 - This project is a mini-portfolio, basically Personal Information which also gave reason why I would love to be a developer at SovTech.
 
 
 		Mini Portfolio -- johnsontemidev-portfolio✨
 	
-	This is a personal static mini portfolio hosted with GitHub Pages, built to develop and showcase my knowledge in frontend development with Nextjs. 
-		Site URL / Demo ->> 
+	This personal static mini portfolio hosted with Vercel, built to develop and showcase my knowledge in frontend development with Nextjs. 
+		Site URL ->> https://johnsontemidev-portfolio.vercel.app/
 Features
 
     Easy to configure
@@ -23,7 +23,7 @@ Features
 
 Please feel free to reach out to me by filing an issue or emailing me at johnsontim@gmail.com if help is needed on how to bootsrap this app.
 
-Getting Started
+# Getting Started
 
 Follow the setup instructions below.
  
