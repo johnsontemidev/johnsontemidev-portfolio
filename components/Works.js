@@ -9,7 +9,7 @@ export default function Works() {
       <Row>
         <Col md={6}>
           <Card className={styles.card}>
-            <a href="https://" target="_blank" rel="noreferrer">
+            <a href="https://johnsontemidev.blogspot.com" target="_blank" rel="noreferrer">
               <Card.Img
                 variant="top"
                 src="/assets/images/works/codedesign.png"
@@ -32,7 +32,7 @@ export default function Works() {
         <Col md={6}>
           <Card className={styles.card}>
             <a
-              href="https://johnsontemidev.blogspot.com"
+              href="https://https://johnsontemidev.blogspot.com/2022/06/hello-people-how-is-it-going-have-you.html"
               target="_blank"
               rel="noreferrer"
             >
@@ -66,7 +66,7 @@ export default function Works() {
                   to shorten any lengthy URL in just one click.
                 </Card.Text>
                 <Card.Text>
-                  Other tools in Kuty.me can serve as Whatsapp link generator and Quiz
+                  Other tools in Kutty.me can serve as Whatsapp link generator and Quiz
                   maker
                 </Card.Text>
               </Card.Body>
