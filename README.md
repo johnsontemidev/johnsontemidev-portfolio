@@ -18,12 +18,15 @@
     </p>
    </p> 
 
+[![GitHub forks](https://img.shields.io/github/forks/johnsontemidev/johnsontemide-portfolio?style=for-the-badge)](https://github.com/johnsontemidev/johnsontemidev-portfolio/network)
+[![Twitter Follow](https://img.shields.io/twitter/follow/johnsontemidev1?color=ffcc66&1logo=twitter&logoColor=ffffff&style=forthefor-the-badge)](https://twitter.com/johnsontemidev1/)
+[![Node Version](https://img.shields.io/static/v1?label=Node&message=14.17.3&color=026e00&style=for-the-badge)](https://nodejs.org)
+[![npm Version](https://img.shields.io/static/v1?label=npm&message=7.19.1&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
 # About my portfolio
 
-[![johnsontemidev-portfolio](public/assets/images/NewPortfolio.png)](https://github.com/johnsontemidev-portfolio)
+[![johnsontemidev-portfolio](public/assets/images/NewPortfolio.PNG)](https://github.com/johnsontemidev/johnsontemidev-portfolio)
 
-NewPorfolio.PNG
 
 # johnsontemidev-portfolio
 - A simple and clean responsive portfolio template!
@@ -41,7 +44,10 @@ Features
 
 Please feel free to reach out to me by filing an issue or emailing me at johnsontim@gmail.com if help is needed on how to bootsrap this app.
 
+<!-- GETTING STARTED -->
 # Getting Started
+
+**Built with** [Nextjs](https://nextjs.org/) & [Bootstrap5](https://getbootstrap.com).
 
 Follow the setup instructions below.
  
@@ -54,7 +60,7 @@ Setup:
 ------
 
     1. Fork this repoistory and clone it to your local machine.
-	  git clone https://github.com/johnsontemidev-portfolio.git
+	  git clone https://github.com/johnsontemidev/johnsontemidev-portfolio.git
 
     2.# Move into the repository
 	$ cd myportfolio
@@ -94,7 +100,8 @@ OR --
 	- [Using Netfify deploy](#using-netlify-deploy)
 	- [Using Vercel deploy](#using-vercel-deploy)
 
-Contributing
+<!-- CONTRIBUTING -->
+# Contributing
 
 Any contribution you make would be appreciated.
 
@@ -108,7 +115,7 @@ License
 
 - MIT License 
 
-#####################################------------------------------------------------------###############################################
+#####################################------------------------------------------------------#################################
 
 
 # Next.js + Tailwind CSS Example -- A second guide to bootstrap the app
