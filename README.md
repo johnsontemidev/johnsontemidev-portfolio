@@ -1,8 +1,29 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h1 align="center">Temilola Johnson's Portfolio ✨</h1>
+
+  <p align="center">
+    Mini Portfolio -- johnsontemidev-portfolio✨
+	This personal static mini portfolio hosted with Vercel, built to develop and showcase my knowledge in frontend development with Nextjs. 
+    <br />
+    <strong>Site URL -» </strong>
+    <a href="https://johnsontemidev-portfolio.vercel.app/">https://johnsontemidev-portfolio.vercel.app/</a>
+    <br />
+    <br />
+    <a href="https://johnsontemidev.blogspot.com/2022/06/AboutMeProjects.html">About Me</a>
+    .
+    <a href="https://github.com/johnsontemidev/johnsontemidev-portfolio/issues">Report Bug</a>
+    .
+    </p>
+   </p> 
 
 
 # About my portfolio
 
 [![johnsontemidev-portfolio](public/assets/images/NewPortfolio.png)](https://github.com/johnsontemidev-portfolio)
+
+NewPorfolio.PNG
 
 # johnsontemidev-portfolio
 - A simple and clean responsive portfolio template!
@@ -10,10 +31,7 @@
 - This project is a mini-portfolio, basically Personal Information which also gave reason why I would love to be a developer at SovTech.
 
 
-		Mini Portfolio -- johnsontemidev-portfolio✨
 	
-	This personal static mini portfolio hosted with Vercel, built to develop and showcase my knowledge in frontend development with Nextjs. 
-		Site URL ->> https://johnsontemidev-portfolio.vercel.app/
 Features
 
     Easy to configure
@@ -82,8 +100,8 @@ Any contribution you make would be appreciated.
 
     1. Fork the Project
     2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-    3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-    4. Push to the Branch (git push origin feature/AmazingFeature)
+    3. Commit your Changes (git commit -m 'Add some niceFeature')
+    4. Push to the Branch (git push origin feature/niceFeature)
     5. Open a Pull Request
 
 License
