@@ -15,7 +15,7 @@ export default function Contact() {
             className={styles.box}
           >
             <i className="bi bi-envelope"></i>
-            johnsontemidev@gmail
+            johnsontemi
           </a>
         </Col>
         <Col lg={4} md={6} sm={12}>
@@ -37,7 +37,7 @@ export default function Contact() {
             className={styles.box}
           >
             <i className="bi bi-telephone"></i>
-            +27-838350445
+            27-838350445
           </a>
         </Col>
       </Row>
