@@ -37,7 +37,7 @@ export default function Contact() {
             className={styles.box}
           >
             <i className="bi bi-telephone"></i>
-            +27-3083835045
+            +27-838350445
           </a>
         </Col>
       </Row>
